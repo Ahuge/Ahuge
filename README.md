@@ -14,10 +14,10 @@ Unfortunately you will be unable to see much of my daily work. However you may s
 
 [![QtPyConvert Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=digitaldomain&repo=QtPyConvert&theme=calm)](https://github.com/digitaldomain/QtPyConvert)
 [![Nuke-RemoveChannels Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=Nuke-RemoveChannels&theme=calm)](https://github.com/Ahuge/Nuke-RemoveChannels)
-[![imod Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=imod&theme=calm)](https://github.com/Ahuge/imod)
-[![yativ Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=mottosso&repo=Qt.py&theme=calm)](https://github.com/mottosso/Qt.py)
-[![dotfiles Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=dotfiles&theme=calm)](https://github.com/Ahuge/dotfiles)
+[![Qt.py Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=mottosso&repo=Qt.py&theme=calm)](https://github.com/mottosso/Qt.py)
 [![serverless-wiki Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=serverless-wiki&theme=calm)](https://github.com/Ahuge/serverless-wiki)
+[![imod Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=imod&theme=calm)](https://github.com/Ahuge/imod)
+[![dotfiles Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=dotfiles&theme=calm)](https://github.com/Ahuge/dotfiles)
 
 
 **Languages and Tools:**  
