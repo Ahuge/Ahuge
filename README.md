@@ -12,12 +12,12 @@ Unfortunately you will be unable to see much of my daily work. However you may s
 ![Alex' github stats](https://github-readme-stats-4wlur96go.vercel.app/api?username=ahuge&theme=calm&show_icons=true)
 
 
-[![QtPyConvert Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=digitaldomain&repo=QtPyConvert&theme=calm)](https://github.com/digitaldomain/QtPyConvert)
-[![Nuke-RemoveChannels Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=Nuke-RemoveChannels&theme=calm)](https://github.com/Ahuge/Nuke-RemoveChannels)
-[![Qt.py Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=mottosso&repo=Qt.py&theme=calm)](https://github.com/mottosso/Qt.py)
-[![serverless-wiki Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=serverless-wiki&theme=calm)](https://github.com/Ahuge/serverless-wiki)
-[![imod Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=imod&theme=calm)](https://github.com/Ahuge/imod)
-[![dotfiles Card](https://github-readme-stats-4wlur96go.vercel.app/api/pin/?username=Ahuge&repo=dotfiles&theme=calm)](https://github.com/Ahuge/dotfiles)
+[![QtPyConvert Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=digitaldomain&repo=QtPyConvert&theme=calm)](https://github.com/digitaldomain/QtPyConvert)
+[![Nuke-RemoveChannels Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=Ahuge&repo=Nuke-RemoveChannels&theme=calm)](https://github.com/Ahuge/Nuke-RemoveChannels)
+[![Qt.py Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=mottosso&repo=Qt.py&theme=calm)](https://github.com/mottosso/Qt.py)
+[![serverless-wiki Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=Ahuge&repo=serverless-wiki&theme=calm)](https://github.com/Ahuge/serverless-wiki)
+[![imod Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=Ahuge&repo=imod&theme=calm)](https://github.com/Ahuge/imod)
+[![dotfiles Card](https://github-readme-stats.ahuge.vercel.app/api/pin/?username=Ahuge&repo=dotfiles&theme=calm)](https://github.com/Ahuge/dotfiles)
 
 
 **Languages and Tools:**  
@@ -28,7 +28,7 @@ Unfortunately you will be unable to see much of my daily work. However you may s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/linux/linux.png"></code>  
 
-[![Top Langs](https://github-readme-stats-4wlur96go.vercel.app/api/top-langs/?username=Ahuge&layout=compact&theme=calm)](https://github.com/Ahuge/Ahuge)  
+[![Top Langs](https://github-readme-stats.ahuge.vercel.app/api/top-langs/?username=Ahuge&layout=compact&theme=calm)](https://github.com/Ahuge/Ahuge)  
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 <!--
