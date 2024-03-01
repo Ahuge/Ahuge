@@ -1,7 +1,7 @@
 ### Hi there, I'm [Alex!](https://www.linkedin.com/in/thealexhughes/) 👋
 
-I'm currently the Head of Pipeline at [VitalityVFX](https://vitalityvfx.com/) and [Arch Platform Technologies](https://archpt.io).  
-I work with my team on a mixutre of cloud based AWS technologies and visual effects ecosystems to empower our clients to run their entire visual effects studios in the cloud on demand.
+I'm currently a Lead Software Engineer at [Arch Platform Technologies](https://archpt.io).  
+I work with my team on a mixutre of cloud based AWS technologies and visual effects ecosystems to empower our clients to run their entire visual effects or creative studios in the cloud on demand.
 
 In my off time, I am interested in open source, security and gui programming.  
 Unfortunately you will be unable to see much of my daily work. However you may see me publicly around [shotgunsoftware repositories](https://github.com/shotgunsoftware) or around other [tk-\* repositories](https://github.com/search?q=tk+shotgun).
